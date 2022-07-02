@@ -1,0 +1,5 @@
+insert into tbl_usuario (id, clave, estado) values(1,'123',1)
+insert into tbl_usuario (id, clave, estado) values(2,'3456',1)
+insert into tbl_usuario (id, clave, estado) values(3,'3423',1)
+insert into tbl_usuario (id, clave, estado) values(4,'52342',1)
+insert into tbl_usuario (id, clave, estado) values(5,'6783',1)
